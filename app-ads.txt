@@ -1,0 +1,5 @@
+# Brightpatch Studio — AdMob publisher line not yet supplied.
+# Before AdMob verification, replace this comment with the exact seller line from AdMob:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# Do not submit this placeholder to AdMob. Obtain the real publisher ID from the AdMob account.
+
